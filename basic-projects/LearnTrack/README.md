@@ -153,3 +153,15 @@ The application currently uses in-memory collections. Data is not persisted afte
 ## Scope
 
 This project focuses on core Java, OOP, collections, basic validation, exception handling, and clean separation of responsibilities. Database persistence and a graphical user interface are outside the current implementation.
+
+## Documentation
+
+- [Setup Instructions](docs/Setup_Instructions.md) — prerequisites and how to run the project.
+- [JVM Basics](docs/JVM_Basics.md) — an introduction to JVM concepts.
+- [Design Notes](docs/Design_Notes.md) — architecture and design decisions.
+
+## Project Structure
+
+- `src/` — Java application source code.
+- `docs/` — project setup, JVM basics, and design documentation.
+- `README.md` — project overview, features, and class diagram.
